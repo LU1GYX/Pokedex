@@ -23,7 +23,7 @@ For the second one, you need to move in the root of the downloaded directory and
 gcc -g main.c PokeUtils.c WinUtils.c -o Pokedex
 ```
 
-And you've done.
+And you've done. **MAKE A BACKUP OF THE "PokedexFile.TXT"! OR YOU CAN LOSE IT!**
 
 # Formatting
 
