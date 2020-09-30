@@ -20,7 +20,7 @@ The first one is the simplest. Open the project in a new Instance of Code::Block
 For the second one, you need to move in the root of the downloaded directory and write the following command:
 
 ```
-gcc -g main.c PokeUtils.c WinUtils.c -o ./bin/Pokedex
+gcc -g main.c PokeUtils.c WinUtils.c -o Pokedex
 ```
 
 And you've done.
