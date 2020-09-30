@@ -10,8 +10,10 @@ To compile the project, you hav two ways:
 * **Code::Blocks Project**
 * **Via Command Line** (CMD is Fine)
 
+## Code::Blocks
 The first one is the simplest. Open the project in a new Instance of Code::Blocks and compile it with the in-built Option.
 
+## Command Line
 For the second one, you need to move in the root of the downloaded directory and write the following command:
 
 ```
