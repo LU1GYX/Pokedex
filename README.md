@@ -1,6 +1,9 @@
 # Pokedex
 A simple Project about an interactive Pokedex. Done this for a School Project and developed in about 2 weeks of time. Works with a simple .TXT file formatted in a specific way.
 
+# Disclamer
+This isn't finished, it can be optimized in many ways.
+
 # Installation
 
 You need:
@@ -27,8 +30,9 @@ And you've done.
 Like i said before, the .TXT have a specific format to follow for the correct working of the program. Is the following:
 
 ```
-[ID][NAME][HP][DESCRIPTION][TYPE1][TYPE2][MOVE1][ATKM1][MOVE2][ATKM2][MOVE3][ATKM3]
+[ID][NAME][HP][DESCRIPTION][TYPE1][TYPE2][MOVE1][ATKMOVE1][MOVE2][ATKMOVE2][MOVE3][ATKMOVE3]
 ```
 
 If you use the in-built function to add a pokemon, the program will format it in this way.
-If, however, want to format manually, follow the above, but without the '[]'.
+
+If, however, want to format manually, follow the above, but without the **[]**.
