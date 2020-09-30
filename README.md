@@ -2,7 +2,7 @@
 A simple Project about an interactive Pokedex. Done this for a School Project and developed in about 2 weeks of time. Works with a simple .TXT file formatted in a specific way.
 
 # Disclamer
-This isn't finished, it can be optimized in many ways.
+This isn't finished, it can be optimized in many ways. All the text is in *ITALIAN*
 
 # Installation
 
