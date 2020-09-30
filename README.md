@@ -20,7 +20,7 @@ gcc -g main.c PokeUtils.c WinUtils.c -o ./bin/Pokedex
 
 And you've done.
 
-#Formatting
+# Formatting
 
 Like i said before, the .TXT have a specific format to follow for the correct working of the program. Is the following:
 
