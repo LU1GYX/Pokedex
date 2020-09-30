@@ -35,4 +35,4 @@ Like i said before, the .TXT have a specific format to follow for the correct wo
 
 If you use the in-built function to add a pokemon, the program will format it in this way.
 
-If, however, want to format manually, follow the above, but without the **[]** and separated with a **SPACE**.
+If, however, want to format manually, follow the above, but without the **[]**, separated with **SPACE** and the [DESCRIPTION] elements **MUST** be joined with the **_**
