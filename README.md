@@ -9,7 +9,7 @@ This isn't finished, it can be optimized in many ways and all the text is in *IT
 You need:
 * **gcc/gnu C compiler**
 
-To compile the project, you hav two ways:
+To compile the project, you have two ways:
 * **Code::Blocks Project**
 * **Via Command Line** (CMD is Fine)
 
