@@ -1,3 +1,5 @@
+//Fix Camel-Case with ALL UPPER!
+
 #define PokedexLenght 151
 #define PkMoveLenght 50
 #define PkTypeLenght 50
