@@ -27,6 +27,8 @@ typedef struct data{
     PkMoves pkMoves;
 } Pokemon;
 
+//Inside the Pokemon Struct -- Dynamic Calculation is no more.
+
 typedef struct weakness{
     char Weak[5][PkTypeLenght];
 } PokeWeak;
