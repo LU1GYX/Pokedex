@@ -101,6 +101,8 @@ void WeaknessFinder(char* String, PokeWeak *pokeWeak){
 
     char* type = String;
 
+    //YandereDev Mode, fixable with a Matrix Array
+    
     if (!strcmp(type, "Lotta")){
         strcpy(pokeWeak->Weak[0], "Volante");
         strcpy(pokeWeak->Weak[1], "Psico");
